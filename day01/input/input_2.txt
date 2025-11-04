@@ -1,0 +1,3 @@
+Auregoril,Eraspyxis,Tyrryn,Ardensaral,Elvarrovan,Thalmal,Jalonar,Rylarnoris,Wyrgnaris,Cyndercyth,Durnpyros,Valdren,Urithjor,Tarlvynar,Hazath,Calxel,Quorvoran,Cyndmyr,Doronar,Eltiral
+
+L14,R11,L8,R7,L7,R5,L12,R5,L18,R10,L5,R13,L5,R16,L5,R15,L5,R14,L5,R10,L8,R15,L13,R7,L14,R7,L17,R5,L12

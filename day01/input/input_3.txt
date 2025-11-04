@@ -1,0 +1,3 @@
+Fersyron,Rythpyr,Ryssnarith,Tazadarin,Ildlyr,Ilmaroryn,Mordin,Azdrith,Felnnar,Tarlnarith,Lorral,Lazirloris,Voraxgalor,Norakgnaris,Brythxar,Zarfroth,Myrsin,Thazmarn,Ozanacris,Brynophis,Lazirkryth,Nexeldrin,Naldthel,Havvor,Morix,Vaelacris,Krynnasis,Arvgoril,Krythquor,Kynzar
+
+L31,R40,L15,R13,L23,R12,L11,R43,L43,R35,L26,R40,L18,R38,L39,R31,L5,R14,L18,R25,L5,R27,L5,R26,L5,R19,L5,R17,L5,R23,L5,R48,L5,R41,L5,R20,L5,R22,L5,R22,L22,R30,L32,R17,L35,R38,L12,R43,L42,R13,L29,R11,L20,R42,L47,R29,L45,R21,L11
