@@ -3,7 +3,7 @@
 | Quest  | Part 1 | Part 2 | Part 3  | 
 | ------------- |:-------------:|:-------------:|:-------------:|
 | [Quest 01](day01/main.zig): Whispers in the Shell    | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
-| [Quest 02](): TBD              | 	TBD  | 	TBD  | 	TBD  |
+| [Quest 02](day02/main.zig): From Complex to Clarity  | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 03](): TBD                  | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 04](): TBD            | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 05](): TBD        | 	TBD  | 	TBD  | 	TBD  |
