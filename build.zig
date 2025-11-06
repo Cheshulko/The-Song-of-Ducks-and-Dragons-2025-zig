@@ -7,6 +7,7 @@ pub fn build(b: *std.Build) void {
     const days = [_][]const u8{
         "day01",
         "day02",
+        "day03",
     };
 
     var exes = std.StringHashMap(*std.Build.Step.Compile).init(b.allocator);
