@@ -5,7 +5,7 @@
 | [Quest 01](day01/main.zig): Whispers in the Shell    | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 02](day02/main.zig): From Complex to Clarity  | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 03](day03/main.zig): The Deepest Fit          | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
-| [Quest 04](): TBD            | 	TBD  | 	TBD  | 	TBD  |
+| [Quest 04](day04/main.zig): Teeth of the Wind        | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 05](): TBD        | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 06](): TBD              | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 07](): TBD            | 	TBD  | 	TBD  | 	TBD  |
