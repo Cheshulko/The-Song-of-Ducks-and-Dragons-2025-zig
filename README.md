@@ -7,7 +7,7 @@
 | [Quest 03](day03/main.zig): The Deepest Fit          | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 04](day04/main.zig): Teeth of the Wind        | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 05](day05/main.zig): Fishbone Order           | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
-| [Quest 06](): TBD              | 	TBD  | 	TBD  | 	TBD  |
+| [Quest 06](day06/main.zig): Mentorship Matrix        | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 07](): TBD            | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 08](): TBD        | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 09](): TBD                  | 	TBD  | 	TBD  | 	TBD  |

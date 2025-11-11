@@ -10,6 +10,7 @@ pub fn build(b: *std.Build) void {
         "day03",
         "day04",
         "day05",
+        "day06",
     };
 
     var exes = std.StringHashMap(*std.Build.Step.Compile).init(b.allocator);
