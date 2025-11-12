@@ -1,0 +1,28 @@
+Axalidris,Gardar,Brythidris,Ylarcarth,Drazdar,Axaladar,Drazkris,Ylarrilor,Garrilor,Brythzrak,Axalsar,Ylaradar,Vyridris,Uradar,Uridris,Urbryn,Selsar,Axalzrak,Seldar,Vyrsar,Orahidris,Brythdar,Orahdar,Ylaridris,Vyrrilor,Drazzrak,Vyrbryn,Axaljor,Selcarth,Urcarth,Brythbryn,Brythjor,Brythkris,Axalrilor,Brythsar,Ylarzrak,Axalcarth,Vyradar,Seladar,Garbryn,Urdar,Brythrilor,Garsar,Drazrilor,Selzrak,Urzrak,Drazidris,Axaldar,Garjor,Garzrak,Garcarth,Ylarsar,Orahjor,Orahkris,Selbryn,Brythcarth,Axalrilor,Axaladar,Axalbryn,Axalbryn,Ursar,Ylarjor,Garkris,Orahsar,Drazsar,Vyrdar,Urjor,Ylardar,Garadar,Axalidris,Drazjor,Vyrjor,Axalcarth,Garidris,Orahadar,Vyrcarth,Axalkris,Brythadar,Seljor,Selrilor,Urkris,Axalsar,Orahzrak,Vyrzrak,Drazcarth,Drazbryn,Axaljor,Selkris,Axaldar,Selidris,Urrilor,Axalkris,Orahrilor,Orahcarth,Axalzrak,Drazadar,Vyrkris,Ylarbryn,Ylarkris,Orahbryn
+
+Y > l
+U > r
+l > a,c,z,j,b,r,o,d,s,k,i,v
+O > r
+c > a
+B > r
+A > x
+k > r
+i > s,l,d
+t > h
+r > a,i,t,y,c,z,j,b,r,d,s,k,v
+a > z,l,d,r,k,h,v
+S > e
+D > r
+h > a,c,z,j,b,r,d,s,k,i
+V > y
+j > o
+G > a
+x > v
+s > a
+o > r
+e > v
+z > k,r,a,c,z,j,b,d,s,i
+d > a,r
+y > n,t,v
+b > r

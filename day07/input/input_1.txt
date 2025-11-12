@@ -1,0 +1,15 @@
+Drelcalyx,Nycalyx,Drelyth,Azjorath,Azyth,Azcalyx,Nyjorath,Nyyth,Dreljorath
+
+a > t,l
+t > h
+c > a
+D > r
+N > y
+e > l
+y > j,t,x,b
+l > j,y,c
+j > o
+A > z
+o > r
+z > b
+r > a,b
