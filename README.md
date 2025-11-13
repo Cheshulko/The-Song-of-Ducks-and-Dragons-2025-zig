@@ -9,7 +9,7 @@
 | [Quest 05](day05/main.zig): Fishbone Order           | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 06](day06/main.zig): Mentorship Matrix        | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 07](day07/main.zig): Namegraph                | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
-| [Quest 08](): TBD        | 	TBD  | 	TBD  | 	TBD  |
+| [Quest 08](day08/main.zig): The Art of Connection    | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 09](): TBD                  | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 10](): TBD           | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 11](): TBD              | 	TBD  | 	TBD  | 	TBD  |
