@@ -10,7 +10,7 @@
 | [Quest 06](day06/main.zig): Mentorship Matrix        | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 07](day07/main.zig): Namegraph                | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 08](day08/main.zig): The Art of Connection    | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
-| [Quest 09](): TBD                  | 	TBD  | 	TBD  | 	TBD  |
+| [Quest 09](day09/main.zig): Encoded in the Scales    | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 10](): TBD           | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 11](): TBD              | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 12](): TBD                   | 	TBD  | 	TBD  | 	TBD  |
