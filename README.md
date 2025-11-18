@@ -1,4 +1,4 @@
-# The Song of Ducks and Dragons [ 2025 ]
+# The Song of Ducks and Dragons (2025)
 
 | Quest  | Part 1 | Part 2 | Part 3  | 
 | ------------- |:-------------:|:-------------:|:-------------:|
@@ -12,7 +12,7 @@
 | [Quest 08](day08/main.zig): The Art of Connection    | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 09](day09/main.zig): Encoded in the Scales    | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 10](day10/main.zig): Feast on the Board       | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
-| [Quest 11](): TBD              | 	TBD  | 	TBD  | 	TBD  |
+| [Quest 11](day11/main.zig): The Scout Duck Protocol  | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 12](): TBD                   | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 13](): TBD        | 	TBD  | 	TBD  | 	TBD  |
 | [Quest 14](): TBD              | 	TBD  | 	TBD  | 	TBD  |
