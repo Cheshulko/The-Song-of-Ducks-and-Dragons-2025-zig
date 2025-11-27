@@ -1,0 +1,80 @@
+Plant 1 with thickness 1:
+- free branch with thickness 1
+
+Plant 2 with thickness 1:
+- free branch with thickness 1
+
+Plant 3 with thickness 1:
+- free branch with thickness 1
+
+Plant 4 with thickness 1:
+- free branch with thickness 1
+
+Plant 5 with thickness 1:
+- free branch with thickness 1
+
+Plant 6 with thickness 1:
+- free branch with thickness 1
+
+Plant 7 with thickness 1:
+- free branch with thickness 1
+
+Plant 8 with thickness 1:
+- free branch with thickness 1
+
+Plant 9 with thickness 1:
+- free branch with thickness 1
+
+Plant 10 with thickness 38:
+- branch to Plant 6 with thickness 25
+- branch to Plant 4 with thickness 25
+- branch to Plant 3 with thickness 32
+- branch to Plant 8 with thickness 27
+- branch to Plant 1 with thickness 19
+
+Plant 11 with thickness 44:
+- branch to Plant 3 with thickness 13
+- branch to Plant 5 with thickness 14
+
+Plant 12 with thickness 19:
+- branch to Plant 4 with thickness 40
+- branch to Plant 2 with thickness 21
+- branch to Plant 8 with thickness 45
+- branch to Plant 1 with thickness 15
+- branch to Plant 9 with thickness 48
+
+Plant 13 with thickness 39:
+- branch to Plant 4 with thickness 25
+- branch to Plant 5 with thickness 39
+- branch to Plant 3 with thickness 35
+- branch to Plant 2 with thickness 26
+
+Plant 14 with thickness 34:
+- branch to Plant 8 with thickness 17
+- branch to Plant 6 with thickness 14
+
+Plant 15 with thickness 10:
+- branch to Plant 13 with thickness 31
+- branch to Plant 10 with thickness 51
+- branch to Plant 14 with thickness 32
+- branch to Plant 11 with thickness 39
+
+Plant 16 with thickness 39:
+- branch to Plant 11 with thickness 36
+- branch to Plant 14 with thickness 22
+- branch to Plant 10 with thickness 38
+- branch to Plant 12 with thickness 22
+
+Plant 17 with thickness 69:
+- branch to Plant 10 with thickness 36
+- branch to Plant 13 with thickness 57
+
+Plant 18 with thickness 20:
+- branch to Plant 14 with thickness 53
+- branch to Plant 12 with thickness 55
+
+Plant 19 with thickness 1:
+- branch to Plant 15 with thickness 80
+- branch to Plant 16 with thickness 34
+- branch to Plant 17 with thickness 17
+- branch to Plant 18 with thickness 42

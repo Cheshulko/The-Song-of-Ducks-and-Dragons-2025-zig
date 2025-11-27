@@ -1,0 +1,430 @@
+Plant 1 with thickness 1:
+- free branch with thickness 1
+
+Plant 2 with thickness 1:
+- free branch with thickness 1
+
+Plant 3 with thickness 1:
+- free branch with thickness 1
+
+Plant 4 with thickness 1:
+- free branch with thickness 1
+
+Plant 5 with thickness 1:
+- free branch with thickness 1
+
+Plant 6 with thickness 1:
+- free branch with thickness 1
+
+Plant 7 with thickness 1:
+- free branch with thickness 1
+
+Plant 8 with thickness 1:
+- free branch with thickness 1
+
+Plant 9 with thickness 1:
+- free branch with thickness 1
+
+Plant 10 with thickness 1:
+- free branch with thickness 1
+
+Plant 11 with thickness 1:
+- free branch with thickness 1
+
+Plant 12 with thickness 1:
+- free branch with thickness 1
+
+Plant 13 with thickness 1:
+- free branch with thickness 1
+
+Plant 14 with thickness 1:
+- free branch with thickness 1
+
+Plant 15 with thickness 1:
+- free branch with thickness 1
+
+Plant 16 with thickness 1:
+- free branch with thickness 1
+
+Plant 17 with thickness 10:
+- branch to Plant 1 with thickness -6
+- branch to Plant 2 with thickness 21
+- branch to Plant 3 with thickness 0
+- branch to Plant 4 with thickness -4
+- branch to Plant 5 with thickness 17
+- branch to Plant 6 with thickness -6
+- branch to Plant 7 with thickness 24
+- branch to Plant 8 with thickness 19
+- branch to Plant 9 with thickness -8
+- branch to Plant 10 with thickness 21
+- branch to Plant 11 with thickness 10
+- branch to Plant 12 with thickness 1
+- branch to Plant 13 with thickness 28
+- branch to Plant 14 with thickness 22
+- branch to Plant 15 with thickness 20
+- branch to Plant 16 with thickness -2
+
+Plant 18 with thickness 12:
+- branch to Plant 1 with thickness -4
+- branch to Plant 2 with thickness -7
+- branch to Plant 3 with thickness 25
+- branch to Plant 4 with thickness 2
+- branch to Plant 5 with thickness 3
+- branch to Plant 6 with thickness 12
+- branch to Plant 7 with thickness 20
+- branch to Plant 8 with thickness 20
+- branch to Plant 9 with thickness 1
+- branch to Plant 10 with thickness 18
+- branch to Plant 11 with thickness -2
+- branch to Plant 12 with thickness 5
+- branch to Plant 13 with thickness 5
+- branch to Plant 14 with thickness 16
+- branch to Plant 15 with thickness 9
+- branch to Plant 16 with thickness 23
+
+Plant 19 with thickness 9:
+- branch to Plant 1 with thickness 15
+- branch to Plant 2 with thickness 11
+- branch to Plant 3 with thickness 10
+- branch to Plant 4 with thickness 19
+- branch to Plant 5 with thickness 19
+- branch to Plant 6 with thickness 0
+- branch to Plant 7 with thickness -1
+- branch to Plant 8 with thickness 4
+- branch to Plant 9 with thickness -1
+- branch to Plant 10 with thickness 10
+- branch to Plant 11 with thickness -4
+- branch to Plant 12 with thickness 5
+- branch to Plant 13 with thickness -10
+- branch to Plant 14 with thickness -3
+- branch to Plant 15 with thickness -3
+- branch to Plant 16 with thickness 0
+
+Plant 20 with thickness 2:
+- branch to Plant 1 with thickness 29
+- branch to Plant 2 with thickness 0
+- branch to Plant 3 with thickness 26
+- branch to Plant 4 with thickness 13
+- branch to Plant 5 with thickness 25
+- branch to Plant 6 with thickness 10
+- branch to Plant 7 with thickness 9
+- branch to Plant 8 with thickness 7
+- branch to Plant 9 with thickness -5
+- branch to Plant 10 with thickness 9
+- branch to Plant 11 with thickness 6
+- branch to Plant 12 with thickness 7
+- branch to Plant 13 with thickness 24
+- branch to Plant 14 with thickness -4
+- branch to Plant 15 with thickness 1
+- branch to Plant 16 with thickness 11
+
+Plant 21 with thickness 8:
+- branch to Plant 1 with thickness 20
+- branch to Plant 2 with thickness -10
+- branch to Plant 3 with thickness 5
+- branch to Plant 4 with thickness 26
+- branch to Plant 5 with thickness 9
+- branch to Plant 6 with thickness -2
+- branch to Plant 7 with thickness 9
+- branch to Plant 8 with thickness 25
+- branch to Plant 9 with thickness -9
+- branch to Plant 10 with thickness -6
+- branch to Plant 11 with thickness 6
+- branch to Plant 12 with thickness 18
+- branch to Plant 13 with thickness 25
+- branch to Plant 14 with thickness -6
+- branch to Plant 15 with thickness -6
+- branch to Plant 16 with thickness -4
+
+Plant 22 with thickness 15:
+- branch to Plant 1 with thickness 15
+- branch to Plant 2 with thickness 17
+- branch to Plant 3 with thickness 26
+- branch to Plant 4 with thickness 18
+- branch to Plant 5 with thickness -9
+- branch to Plant 6 with thickness 10
+- branch to Plant 7 with thickness -7
+- branch to Plant 8 with thickness -3
+- branch to Plant 9 with thickness 14
+- branch to Plant 10 with thickness 0
+- branch to Plant 11 with thickness 6
+- branch to Plant 12 with thickness -6
+- branch to Plant 13 with thickness -7
+- branch to Plant 14 with thickness 25
+- branch to Plant 15 with thickness -1
+- branch to Plant 16 with thickness 3
+
+Plant 23 with thickness 6:
+- branch to Plant 1 with thickness -8
+- branch to Plant 2 with thickness 25
+- branch to Plant 3 with thickness 17
+- branch to Plant 4 with thickness -5
+- branch to Plant 5 with thickness -2
+- branch to Plant 6 with thickness 2
+- branch to Plant 7 with thickness 9
+- branch to Plant 8 with thickness 16
+- branch to Plant 9 with thickness -2
+- branch to Plant 10 with thickness 20
+- branch to Plant 11 with thickness 1
+- branch to Plant 12 with thickness -3
+- branch to Plant 13 with thickness 10
+- branch to Plant 14 with thickness 26
+- branch to Plant 15 with thickness 6
+- branch to Plant 16 with thickness 0
+
+Plant 24 with thickness 6:
+- branch to Plant 1 with thickness 0
+- branch to Plant 2 with thickness -3
+- branch to Plant 3 with thickness 10
+- branch to Plant 4 with thickness 19
+- branch to Plant 5 with thickness -4
+- branch to Plant 6 with thickness 13
+- branch to Plant 7 with thickness -4
+- branch to Plant 8 with thickness 10
+- branch to Plant 9 with thickness -6
+- branch to Plant 10 with thickness 4
+- branch to Plant 11 with thickness -5
+- branch to Plant 12 with thickness 9
+- branch to Plant 13 with thickness 1
+- branch to Plant 14 with thickness 11
+- branch to Plant 15 with thickness 16
+- branch to Plant 16 with thickness -5
+
+Plant 25 with thickness 3:
+- branch to Plant 1 with thickness 27
+- branch to Plant 2 with thickness 1
+- branch to Plant 3 with thickness 14
+- branch to Plant 4 with thickness 12
+- branch to Plant 5 with thickness 29
+- branch to Plant 6 with thickness 28
+- branch to Plant 7 with thickness 16
+- branch to Plant 8 with thickness 26
+- branch to Plant 9 with thickness 6
+- branch to Plant 10 with thickness 25
+- branch to Plant 11 with thickness 29
+- branch to Plant 12 with thickness 9
+- branch to Plant 13 with thickness 24
+- branch to Plant 14 with thickness -4
+- branch to Plant 15 with thickness 5
+- branch to Plant 16 with thickness 22
+
+Plant 26 with thickness 2:
+- branch to Plant 1 with thickness -6
+- branch to Plant 2 with thickness 12
+- branch to Plant 3 with thickness 23
+- branch to Plant 4 with thickness 28
+- branch to Plant 5 with thickness 26
+- branch to Plant 6 with thickness 5
+- branch to Plant 7 with thickness -6
+- branch to Plant 8 with thickness -4
+- branch to Plant 9 with thickness -6
+- branch to Plant 10 with thickness 13
+- branch to Plant 11 with thickness 2
+- branch to Plant 12 with thickness -6
+- branch to Plant 13 with thickness 12
+- branch to Plant 14 with thickness 19
+- branch to Plant 15 with thickness 12
+- branch to Plant 16 with thickness 21
+
+Plant 27 with thickness 49:
+- branch to Plant 17 with thickness 23
+- branch to Plant 18 with thickness 62
+- branch to Plant 19 with thickness -4
+- branch to Plant 20 with thickness 72
+- branch to Plant 21 with thickness 39
+- branch to Plant 22 with thickness 29
+- branch to Plant 23 with thickness 21
+- branch to Plant 24 with thickness 32
+- branch to Plant 25 with thickness 2
+- branch to Plant 26 with thickness 3
+
+Plant 28 with thickness 22:
+- branch to Plant 17 with thickness -10
+- branch to Plant 18 with thickness 72
+- branch to Plant 19 with thickness 42
+- branch to Plant 20 with thickness 60
+- branch to Plant 21 with thickness 38
+- branch to Plant 22 with thickness 6
+- branch to Plant 23 with thickness 46
+- branch to Plant 24 with thickness -8
+- branch to Plant 25 with thickness -8
+- branch to Plant 26 with thickness 51
+
+Plant 29 with thickness 8:
+- branch to Plant 17 with thickness 56
+- branch to Plant 18 with thickness -12
+- branch to Plant 19 with thickness 74
+- branch to Plant 20 with thickness 41
+- branch to Plant 21 with thickness 42
+- branch to Plant 22 with thickness 62
+- branch to Plant 23 with thickness 41
+- branch to Plant 24 with thickness 27
+- branch to Plant 25 with thickness 14
+- branch to Plant 26 with thickness 28
+
+Plant 30 with thickness 19:
+- branch to Plant 17 with thickness 52
+- branch to Plant 18 with thickness -14
+- branch to Plant 19 with thickness 1
+- branch to Plant 20 with thickness 8
+- branch to Plant 21 with thickness 41
+- branch to Plant 22 with thickness 46
+- branch to Plant 23 with thickness 56
+- branch to Plant 24 with thickness 29
+- branch to Plant 25 with thickness -5
+- branch to Plant 26 with thickness 57
+
+Plant 31 with thickness 30:
+- branch to Plant 17 with thickness 61
+- branch to Plant 18 with thickness 46
+- branch to Plant 19 with thickness 17
+- branch to Plant 20 with thickness -1
+- branch to Plant 21 with thickness 8
+- branch to Plant 22 with thickness 72
+- branch to Plant 23 with thickness 30
+- branch to Plant 24 with thickness 26
+- branch to Plant 25 with thickness 12
+- branch to Plant 26 with thickness 36
+
+Plant 32 with thickness 39:
+- branch to Plant 17 with thickness 2
+- branch to Plant 18 with thickness 14
+- branch to Plant 19 with thickness -5
+- branch to Plant 20 with thickness -3
+- branch to Plant 21 with thickness -3
+- branch to Plant 22 with thickness -13
+- branch to Plant 23 with thickness -13
+- branch to Plant 24 with thickness 27
+- branch to Plant 25 with thickness 5
+- branch to Plant 26 with thickness 37
+
+Plant 33 with thickness 40:
+- branch to Plant 27 with thickness 4
+- branch to Plant 28 with thickness 12
+- branch to Plant 29 with thickness -11
+- branch to Plant 30 with thickness 14
+- branch to Plant 31 with thickness -17
+- branch to Plant 32 with thickness 42
+
+Plant 34 with thickness 9:
+- branch to Plant 27 with thickness -8
+- branch to Plant 28 with thickness 59
+- branch to Plant 29 with thickness 34
+- branch to Plant 30 with thickness -2
+- branch to Plant 31 with thickness -19
+- branch to Plant 32 with thickness -17
+
+Plant 35 with thickness 67:
+- branch to Plant 27 with thickness 35
+- branch to Plant 28 with thickness 56
+- branch to Plant 29 with thickness -7
+- branch to Plant 30 with thickness 54
+- branch to Plant 31 with thickness 63
+- branch to Plant 32 with thickness -16
+
+Plant 36 with thickness 56326769:
+- branch to Plant 33 with thickness 26
+- branch to Plant 34 with thickness 24
+- branch to Plant 35 with thickness 28
+
+
+0 0 0 1 0 1 0 1 1 1 1 1 0 1 1 1
+1 1 1 1 0 1 1 1 1 1 1 1 0 1 1 1
+1 1 0 0 1 0 0 0 1 1 0 0 0 0 0 0
+1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 0
+0 0 1 1 0 1 0 1 0 0 1 0 1 0 0 0
+1 1 0 1 1 0 0 0 1 0 0 0 0 1 1 0
+1 1 0 1 0 1 1 1 0 1 0 0 1 1 0 1
+1 0 1 1 0 1 0 1 0 1 1 1 1 1 0 0
+1 0 1 0 1 0 1 0 1 0 1 1 0 1 0 0
+0 1 0 0 1 0 1 1 0 1 0 1 0 1 0 1
+1 1 1 0 0 1 0 1 1 1 0 1 0 0 0 1
+0 1 0 1 1 0 1 1 0 0 1 1 0 0 1 0
+0 1 0 1 1 1 1 1 0 1 0 1 1 0 0 1
+0 1 1 0 0 1 0 1 0 1 0 1 1 0 0 0
+0 1 1 0 1 0 1 0 1 1 0 0 1 0 1 0
+0 1 1 0 1 1 1 1 0 0 1 0 1 1 0 0
+0 0 1 0 0 0 0 0 0 0 0 1 0 1 0 0
+0 0 1 1 1 0 0 0 0 1 0 0 1 1 1 0
+1 1 0 1 0 1 0 0 1 1 1 0 0 0 1 0
+1 0 0 1 1 0 0 0 0 1 1 1 1 1 1 1
+1 0 0 1 1 0 0 1 0 0 0 1 0 0 0 1
+1 0 1 1 1 1 0 1 1 1 1 0 1 1 1 0
+1 0 1 1 1 0 1 0 0 0 1 0 0 1 1 0
+0 0 1 1 1 1 0 0 0 0 1 0 1 0 0 0
+1 1 0 0 1 0 0 1 0 1 0 1 1 1 0 0
+1 0 1 0 1 1 1 0 0 1 1 0 1 0 1 1
+0 0 0 1 1 1 0 0 1 0 1 0 0 0 0 1
+1 0 1 1 0 1 1 1 1 1 1 0 1 1 0 0
+0 1 1 1 0 0 1 0 1 0 0 1 1 0 1 1
+0 1 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+0 0 1 1 0 0 0 1 1 1 1 0 0 0 0 1
+0 0 0 1 0 0 1 0 1 0 1 0 0 0 1 0
+1 1 1 1 0 1 1 1 1 0 1 0 0 1 0 1
+0 0 0 0 1 0 0 0 1 0 0 0 1 0 1 0
+1 1 1 0 1 1 1 0 0 0 0 1 1 1 0 1
+0 0 1 0 0 1 0 1 0 0 1 0 0 0 1 1
+0 0 0 0 1 0 0 1 0 0 0 0 1 0 1 1
+0 0 0 1 1 1 0 1 0 1 0 0 0 0 1 1
+1 0 1 0 0 0 0 0 0 0 1 0 0 0 0 0
+0 1 1 0 1 1 1 0 1 1 1 1 1 0 1 0
+1 0 0 1 1 0 1 1 0 0 1 1 1 1 0 1
+1 1 0 0 1 0 1 1 0 1 1 1 0 0 1 1
+0 1 0 0 1 0 0 1 1 0 1 0 1 0 1 1
+0 1 1 1 0 1 0 0 0 1 1 0 0 1 0 1
+0 1 1 1 1 1 1 0 0 1 0 1 1 1 1 1
+0 0 0 0 1 1 1 0 1 1 0 0 0 1 0 1
+0 0 1 0 1 0 1 0 1 0 0 1 0 0 1 0
+0 0 1 1 0 1 0 0 0 1 1 0 0 0 1 1
+0 0 0 0 0 1 0 1 0 0 1 0 1 0 1 0
+0 1 0 0 0 1 0 1 1 0 1 1 1 1 0 1
+0 0 1 0 1 1 1 0 0 1 1 1 1 0 0 1
+0 0 0 1 1 1 0 0 1 0 1 0 0 0 1 1
+1 1 1 0 0 0 0 0 1 1 1 1 0 0 0 0
+0 1 0 0 0 0 0 1 0 0 1 1 0 1 1 1
+1 0 0 1 0 1 1 0 1 0 1 1 1 0 1 0
+0 1 1 0 1 1 1 1 1 0 0 0 1 1 0 0
+0 0 0 0 0 1 0 0 0 0 1 0 0 1 0 1
+1 1 0 0 1 0 0 1 0 1 1 0 0 0 0 0
+1 1 1 0 0 0 1 0 0 1 0 1 1 0 0 1
+1 0 1 1 0 0 1 0 0 0 1 1 0 0 1 0
+1 0 1 0 1 1 1 1 0 1 0 0 1 1 0 0
+1 0 1 0 0 0 1 0 0 1 1 0 1 1 0 0
+0 1 0 0 0 0 0 0 1 0 0 1 1 0 0 0
+1 1 0 0 1 0 1 0 0 1 1 1 0 1 1 1
+0 0 1 0 0 1 0 1 1 1 0 1 1 1 0 1
+0 0 1 0 0 0 0 0 1 1 0 0 1 1 0 1
+0 0 1 1 1 0 0 0 1 1 0 0 1 1 0 1
+0 0 1 0 1 0 1 0 0 1 1 0 1 1 1 0
+0 0 0 0 0 0 0 1 0 1 1 0 1 1 0 1
+0 1 1 1 0 1 0 1 0 0 0 0 1 0 1 0
+0 0 0 1 0 0 1 0 0 0 1 1 0 1 0 0
+0 1 1 1 0 1 1 0 0 0 0 0 0 1 0 1
+0 0 0 1 1 0 0 1 1 1 1 1 0 1 0 0
+1 1 0 0 0 1 1 0 0 0 0 1 1 0 1 0
+0 0 0 1 1 0 1 0 1 0 0 1 1 0 1 1
+1 0 1 0 0 0 0 1 1 1 1 0 0 1 0 1
+1 0 1 0 0 1 1 0 1 1 0 1 0 0 1 1
+1 1 0 0 1 0 1 0 0 0 1 0 1 1 0 1
+1 1 0 1 0 0 1 1 1 0 0 0 0 0 0 0
+0 0 1 1 1 0 1 1 0 0 1 1 1 0 1 1
+0 0 1 0 1 1 1 0 1 1 0 0 1 1 1 1
+1 0 1 1 0 0 1 0 0 1 0 0 0 1 1 0
+1 0 0 0 0 1 0 0 0 1 0 0 0 1 0 0
+1 0 1 1 0 0 0 0 1 1 1 1 0 0 1 0
+1 0 0 1 1 0 1 0 1 1 1 0 0 0 1 0
+1 1 1 1 0 1 1 0 1 1 1 0 1 0 0 0
+0 1 1 1 1 0 1 0 0 0 0 0 1 1 1 0
+1 1 1 1 0 1 0 0 1 1 1 0 0 0 0 1
+1 0 1 0 0 0 1 0 1 1 0 0 0 1 0 1
+0 1 1 0 1 0 1 0 1 1 0 1 0 1 1 1
+0 0 1 0 0 1 1 0 0 1 0 1 1 0 1 0
+0 0 1 0 0 1 0 1 0 0 0 1 0 0 1 1
+1 1 1 1 0 0 0 1 0 0 1 0 1 1 0 1
+0 0 1 0 1 1 0 0 0 0 0 0 0 0 1 1
+1 0 1 0 1 0 0 0 1 0 1 0 1 0 0 0
+1 1 0 1 1 1 1 0 0 0 1 0 1 0 0 1
+1 1 0 1 1 0 1 0 0 1 1 1 1 1 0 0
+0 1 0 1 1 0 0 1 0 0 0 1 0 0 1 1
+1 1 1 1 1 1 1 0 1 1 0 0 0 1 1 1
+1 0 1 0 1 1 0 0 1 0 1 1 0 1 0 1
