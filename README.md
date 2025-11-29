@@ -21,4 +21,4 @@
 | [Quest 17](day17/main.zig): Deadline-Driven Development | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 18](day18/main.zig): When Roots Remember         | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
 | [Quest 19](day19/main.zig): Flappy Quack                | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
-| [Quest 20](): TBD                  | 	TBD  | 	TBD  | 	TBD  |
+| [Quest 20](day20/main.zig): Dream in Triangles          | 	&#x2705;  | 	&#x2705;  | 	&#x2705;  |
